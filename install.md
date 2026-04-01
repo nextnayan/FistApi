@@ -1,0 +1,1 @@
+pip install fastapi "uvicorn[standard]" sqlalchemy pydantic-settings python-dotenv
